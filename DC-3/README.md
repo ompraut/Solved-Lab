@@ -134,13 +134,6 @@ cd /root
 ls
 ```
 
-## Screenshots
-
-* Nmap Scan
-* Joomla Enumeration
-* Reverse Shell
-* Privilege Escalation
-* Root Flag
 
 ## Lessons Learned
 
